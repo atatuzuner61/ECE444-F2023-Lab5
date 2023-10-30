@@ -2,6 +2,11 @@
 
 Repo for Lab 5 submission
 
+## Group Project Unit Test Contribution
+
+My contribution to the group project tests is the 'test_invalid_get_event' function under flask-server/test/unit/test_event_service.py
+Here is the link: [test_invalid_get_event](https://github.com/ECE444-2023Fall/project-1-web-application-design-group3-bugbusters/blob/ddd21c3277bd48429aeec76aa804a877f61b06a4/flask-server/test/unit/test_event_service.py#L33)
+
 ## Pros and Cons of TDD
 
 Test-Driven Development (TDD) is a software development strategy where writing automated tests proceeds writing actual code.
