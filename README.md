@@ -19,7 +19,7 @@ Test-Driven Development (TDD) is a software development strategy where writing a
 
 3. **Better Understanding of Requirements:** Writing tests first enables developers to understand the specific requirements more in-depth. It leads to more precise code implementation.
 
-### Cons of TDD:
+### Cons:
 
 1. **Initial Time Investment:** Writing tests before the code can be time-consuming. This is the case especially for beginners or when dealing with complex systems. This initial investment might seem unattractive to some developers.
 
